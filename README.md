@@ -1,16 +1,11 @@
 # tic_tac_toe
 
-A new Flutter project.
+A Tic Tac Toe game where two players can take their turns to place their symbols (X or O) on a 3x3 grid. 
 
-## Getting Started
+# context 
+The objective of the game is that the players have to form a  horizontal, vertical or diagonal line of three of their symbols to win the game. It has several functionalities like a score display to display current scores, dialog boxes that show win/draw messages, and a clear scoreboard button to start a new game!
 
-This project is a starting point for a Flutter application.
+# output video
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/khushitriv18/PRODIGY_AD_04/assets/169227271/f4b3cb49-5a42-489e-9093-640a9cf0665b
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
